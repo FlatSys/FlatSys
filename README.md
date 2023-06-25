@@ -4,9 +4,6 @@
 I'm a 15 year old trans girl living in England.
 From building computers, tech repair and network infrastructure, to creating and improving code, I try and master it all.
 
-
-I am currently studying GCSE computer science OCR and I am due to complete my final exam in June!
-
 ## Where can I find your code?
 You can find some of the things i work on at <a target="_blank" href="https://github.com/flatsys">GitHub</a>, and a website is on the way!
 
